@@ -1,0 +1,244 @@
+html {
+	scroll-behavior: smooth;
+}
+.div2 {
+	display: inline-block;
+	padding-left: 700px;
+	font-family: 'Lora',serif;
+	font-style: normal;
+	font-weight: 300;
+	word-spacing: 20px;
+	letter-spacing: 2px;
+	font-size: 20px;
+}
+.div1 {
+	background-color: white;
+	width: 100%;
+	height: 70px;
+	margin-left: 10%;
+	font-family: 'Merriweather',serif;
+	font-weight: bold;
+	color: #555;
+	letter-spacing: 4px;
+	margin-top: 10px;
+	display: inline-block;
+	font-size: 20px;
+
+}
+.background {
+	background-image: url(home.jpg);
+	width: 100%;
+	height: 650px;
+	background-size: cover;
+
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.hello {
+	text-align: center;
+	padding-top: 200px;
+}
+
+.hello span {
+	font-size: 76px;
+	font-family: 'Merriweather',serif;
+	font-weight: bold;
+	color: white;
+	letter-spacing: 0.5px;s
+}
+.foto1 {
+	height:650px ;
+	padding-top: 10%;
+	width: 102%;
+}
+.secton {
+	background-color: white;
+}
+.aa1 {
+	padding-top: 20px;
+	text-decoration-line: none;
+}
+.foto3 {
+	height:650px ;
+	padding-top: 10%;
+	width: 102%;
+}
+.foto2 {
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;}
+
+.discover a p {
+	border-radius: 100px;
+	width: 160px;
+	height: 29px;
+	margin-left: 43%;
+	margin-top: 26px;
+	font-family: 'Merriweather',serif;
+	font-weight: bold;
+	padding-top: 11px !important;
+	color: #555;
+	border: 2px solid white;
+	background-color: white;
+	font-size: 11px;
+	letter-spacing: 2px
+}
+.discover a p:hover {
+	border: 2px solid white;
+	background-color: inherit;
+	color: white;
+}
+
+.ContinueReading {
+	border-radius: 100px;
+	border: 1px solid #c8c7c0;;
+	width: 182px;
+	height: 33px;
+	background-color: white;
+	padding-left: 22px;
+	padding-top: 13px;
+	
+}
+.ContinueReading1 {
+	text-decoration-line: none;
+	color: #777;
+	font-weight: bold;
+	letter-spacing: 1px;
+    font-family: 'Lora',serif;
+    font-style: normal;
+
+}
+.ContinueReading:hover {
+	background: #bfba55;
+	border-color: transparent;
+	color: #fff;
+	text-decoration-line: none ;
+
+}
+
+.foto4 {
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+}
+.main {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.video {
+	width: 90%;
+	height: 650px;
+}
+.foto5 {
+	height:650px ;
+	padding-top: 10%;
+	width: 102%;
+}
+.foto6 {
+	height:650px ;
+	padding-top: 10%;
+	width: 102%;
+}
+.theend {
+	background-color: black;
+	height: 600px;
+}
+
+.Talktous {
+	color: white;
+	width:460px;
+	float: left;
+	padding-left: 70px;
+	padding-top: 70px;
+}
+
+ .Neuronstudio {
+ 	color: white;
+	width:460px;
+	float: left;
+	padding-left: 180px;
+	padding-top: 70px;
+}
+.div2 {
+	text-decoration-line: none;
+	color: #555;
+}
+.div1 p a:hover {
+	color: #bfba55  !important
+}
+
+.afterbigfoto {
+	 font-size: 26px;
+    font-family: 'Merriweather',serif;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    text-decoration-line: none;
+    color: black;
+    font-weight: bold;
+}
+.afterbigfoto:hover {
+	color: #bfba55;
+}
+.names {
+	    letter-spacing: 0.5px;
+    font-family: 'Lora',serif;
+    font-style: normal;
+    font-weight: 300;
+ 	text-decoration-line: none ;
+ 	color: black;
+
+}
+.comments {
+	color: #777;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 26px;
+	letter-spacing: 0.2px;
+	font-family: 'Merriweather',serif;
+    font-style: normal;
+}
+.studio {
+	font-size: 30px;
+	font-family: 'Merriweather',serif;
+	font-style: normal;
+	font-weight: bold;
+	letter-spacing: 0.5px;
+}
+.words {
+	color: #777;
+	font-size: 17px;
+	font-weight: 300;
+	line-height: 26px;
+	letter-spacing: 0.2px;
+}
+.smaylik {
+	border-radius: 100%;
+	width: 500px;
+	height: 400px;
+	color: white;
+	display: inline-block;
+	padding-left: 38%;
+	padding-top: 60px;
+
+}
+.liniya{
+	display: block;
+	padding-left: 98px;
+	padding-top: 344px;
+	width: 84%;
+}
+.smaylik a {
+	width: 33px;
+	height: 29px;
+	text-decoration-line: none;
+	color:#292929;
+	border: 2px solid #292929;
+	border-radius: 100%;
+	padding-left: 20px;
+	padding-top: 19px;
+	margin: 10px;
+}
+.smaylik a:hover{
+	color: #bfba55;
+	border-color: #bfba55;
+}
